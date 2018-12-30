@@ -1,0 +1,111 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,134,"MDG","Madagascar",1,"Antananarivo",1,"Analamanga",1,"Ambohidratrimo","Fivondronana","District",NA,NA
+2,134,"MDG","Madagascar",1,"Antananarivo",1,"Analamanga",2,"Andramasina","Fivondronana","District",NA,NA
+3,134,"MDG","Madagascar",1,"Antananarivo",1,"Analamanga",3,"Anjozorobe","Fivondronana","District",NA,NA
+4,134,"MDG","Madagascar",1,"Antananarivo",1,"Analamanga",4,"Ankazobe","Fivondronana","District",NA,NA
+5,134,"MDG","Madagascar",1,"Antananarivo",1,"Analamanga",5,"Antananarivo-Nord","Fivondronana","District",NA,NA
+6,134,"MDG","Madagascar",1,"Antananarivo",1,"Analamanga",6,"Antananarivo-Sud","Fivondronana","District",NA,NA
+7,134,"MDG","Madagascar",1,"Antananarivo",1,"Analamanga",7,"Antananarivo renivohitra","Fivondronana","District",NA,NA
+8,134,"MDG","Madagascar",1,"Antananarivo",1,"Analamanga",8,"Manjakandriana","Fivondronana","District",NA,NA
+9,134,"MDG","Madagascar",1,"Antananarivo",2,"Bongolava",9,"Fenoarivo-Centre","Fivondronana","District",NA,NA
+10,134,"MDG","Madagascar",1,"Antananarivo",2,"Bongolava",10,"Tsiroanomandidy","Fivondronana","District",NA,NA
+11,134,"MDG","Madagascar",1,"Antananarivo",3,"Itasy",11,"Arivonimamo","Fivondronana","District",NA,NA
+12,134,"MDG","Madagascar",1,"Antananarivo",3,"Itasy",12,"Miarinarivo","Fivondronana","District",NA,NA
+13,134,"MDG","Madagascar",1,"Antananarivo",3,"Itasy",13,"Soavinandriana","Fivondronana","District",NA,NA
+14,134,"MDG","Madagascar",1,"Antananarivo",4,"Vakinankaratra",14,"Ambatolampy","Fivondronana","District",NA,NA
+15,134,"MDG","Madagascar",1,"Antananarivo",4,"Vakinankaratra",15,"Antanifotsy","Fivondronana","District",NA,NA
+16,134,"MDG","Madagascar",1,"Antananarivo",4,"Vakinankaratra",16,"Antsirabe Rural","Fivondronana","District",NA,NA
+17,134,"MDG","Madagascar",1,"Antananarivo",4,"Vakinankaratra",17,"Antsirabe Urban","Fivondronana","District",NA,NA
+18,134,"MDG","Madagascar",1,"Antananarivo",4,"Vakinankaratra",18,"Betafo","Fivondronana","District",NA,NA
+19,134,"MDG","Madagascar",1,"Antananarivo",4,"Vakinankaratra",19,"Faratsiho","Fivondronana","District",NA,NA
+20,134,"MDG","Madagascar",2,"Antsiranana",5,"Diana",20,"Ambanja","Fivondronana","District",NA,NA
+21,134,"MDG","Madagascar",2,"Antsiranana",5,"Diana",21,"Ambilobe","Fivondronana","District",NA,NA
+22,134,"MDG","Madagascar",2,"Antsiranana",5,"Diana",22,"Antsiranana Rural","Fivondronana","District",NA,NA
+23,134,"MDG","Madagascar",2,"Antsiranana",5,"Diana",23,"Antsiranana Urban","Fivondronana","District",NA,NA
+24,134,"MDG","Madagascar",2,"Antsiranana",5,"Diana",24,"Nosibe","Fivondronana","District",NA,NA
+25,134,"MDG","Madagascar",2,"Antsiranana",6,"Sava",25,"Andapa","Fivondronana","District",NA,NA
+26,134,"MDG","Madagascar",2,"Antsiranana",6,"Sava",26,"Antalaha","Fivondronana","District",NA,NA
+27,134,"MDG","Madagascar",2,"Antsiranana",6,"Sava",27,"Sambava","Fivondronana","District",NA,NA
+28,134,"MDG","Madagascar",2,"Antsiranana",6,"Sava",28,"Vohimarina (Iharana)","Fivondronana","District",NA,"Vohimarina (Iharana)|Vohimarina| Vohima| Iharana"
+29,134,"MDG","Madagascar",3,"Fianarantsoa",7,"Amoron'i mania",29,"Ambatofinandrahana","Fivondronana","District",NA,NA
+30,134,"MDG","Madagascar",3,"Fianarantsoa",7,"Amoron'i mania",30,"Ambositra","Fivondronana","District",NA,NA
+31,134,"MDG","Madagascar",3,"Fianarantsoa",7,"Amoron'i mania",31,"Fandriana","Fivondronana","District",NA,NA
+32,134,"MDG","Madagascar",3,"Fianarantsoa",7,"Amoron'i mania",32,"Manandriana","Fivondronana","District",NA,NA
+33,134,"MDG","Madagascar",3,"Fianarantsoa",8,"Atsimo-Atsinana",33,"Befotaka","Fivondronana","District",NA,NA
+34,134,"MDG","Madagascar",3,"Fianarantsoa",8,"Atsimo-Atsinana",34,"Farafangana","Fivondronana","District",NA,NA
+35,134,"MDG","Madagascar",3,"Fianarantsoa",8,"Atsimo-Atsinana",35,"Midongy-Sud","Fivondronana","District",NA,NA
+36,134,"MDG","Madagascar",3,"Fianarantsoa",8,"Atsimo-Atsinana",36,"Vangaindrano","Fivondronana","District",NA,"Vaingaindrano| Vangaindrona"
+37,134,"MDG","Madagascar",3,"Fianarantsoa",8,"Atsimo-Atsinana",37,"Vondrozo","Fivondronana","District",NA,NA
+38,134,"MDG","Madagascar",3,"Fianarantsoa",9,"Haute matsiatra",38,"Ambalavao","Fivondronana","District",NA,NA
+39,134,"MDG","Madagascar",3,"Fianarantsoa",9,"Haute matsiatra",39,"Ambohimahasoa","Fivondronana","District",NA,NA
+40,134,"MDG","Madagascar",3,"Fianarantsoa",9,"Haute matsiatra",40,"Fianarantsoa Rural","Fivondronana","District",NA,NA
+41,134,"MDG","Madagascar",3,"Fianarantsoa",9,"Haute matsiatra",41,"Fianarantsoa Urban","Fivondronana","District",NA,NA
+42,134,"MDG","Madagascar",3,"Fianarantsoa",9,"Haute matsiatra",42,"Ikalamavony","Fivondronana","District",NA,NA
+43,134,"MDG","Madagascar",3,"Fianarantsoa",10,"Ihorombe",43,"Iakora","Fivondronana","District",NA,NA
+44,134,"MDG","Madagascar",3,"Fianarantsoa",10,"Ihorombe",44,"Ihosy","Fivondronana","District",NA,NA
+45,134,"MDG","Madagascar",3,"Fianarantsoa",10,"Ihorombe",45,"Ivohibe","Fivondronana","District",NA,NA
+46,134,"MDG","Madagascar",3,"Fianarantsoa",11,"Vatovavy Fitovinany",46,"Ifanadiana","Fivondronana","District",NA,NA
+47,134,"MDG","Madagascar",3,"Fianarantsoa",11,"Vatovavy Fitovinany",47,"Ikongo","Fivondronana","District",NA,"Ikongo (F"
+48,134,"MDG","Madagascar",3,"Fianarantsoa",11,"Vatovavy Fitovinany",48,"Manakara-Sud","Fivondronana","District",NA,"Manakara Sud|Manakara-Atsimo"
+49,134,"MDG","Madagascar",3,"Fianarantsoa",11,"Vatovavy Fitovinany",49,"Mananjary","Fivondronana","District",NA,NA
+50,134,"MDG","Madagascar",3,"Fianarantsoa",11,"Vatovavy Fitovinany",50,"Nosy varika","Fivondronana","District",NA,NA
+51,134,"MDG","Madagascar",3,"Fianarantsoa",11,"Vatovavy Fitovinany",51,"Vohipeno","Fivondronana","District",NA,NA
+52,134,"MDG","Madagascar",4,"Mahajanga",12,"Betsiboka",52,"Kandreho","Fivondronana","District",NA,NA
+53,134,"MDG","Madagascar",4,"Mahajanga",12,"Betsiboka",53,"Maevatanana","Fivondronana","District",NA,NA
+54,134,"MDG","Madagascar",4,"Mahajanga",12,"Betsiboka",54,"Tsaratanana","Fivondronana","District",NA,NA
+55,134,"MDG","Madagascar",4,"Mahajanga",13,"Boeny",55,"Ambato-Boina","Fivondronana","District",NA,"Ambato Boeni| Ambato-Boina"
+56,134,"MDG","Madagascar",4,"Mahajanga",13,"Boeny",56,"Mahajanga Rural","Fivondronana","District",NA,NA
+57,134,"MDG","Madagascar",4,"Mahajanga",13,"Boeny",57,"Mahajanga Urban","Fivondronana","District",NA,NA
+58,134,"MDG","Madagascar",4,"Mahajanga",13,"Boeny",58,"Marovoay","Fivondronana","District",NA,NA
+59,134,"MDG","Madagascar",4,"Mahajanga",13,"Boeny",59,"Mitsinjo","Fivondronana","District",NA,NA
+60,134,"MDG","Madagascar",4,"Mahajanga",13,"Boeny",60,"Soalala","Fivondronana","District",NA,NA
+61,134,"MDG","Madagascar",4,"Mahajanga",14,"Melaky",61,"Ambatomainty","Fivondronana","District",NA,NA
+62,134,"MDG","Madagascar",4,"Mahajanga",14,"Melaky",62,"Antsalova","Fivondronana","District",NA,NA
+63,134,"MDG","Madagascar",4,"Mahajanga",14,"Melaky",63,"Besalampy","Fivondronana","District",NA,NA
+64,134,"MDG","Madagascar",4,"Mahajanga",14,"Melaky",64,"Maintirano","Fivondronana","District",NA,NA
+65,134,"MDG","Madagascar",4,"Mahajanga",14,"Melaky",65,"Morafanobe","Fivondronana","District",NA,NA
+66,134,"MDG","Madagascar",4,"Mahajanga",15,"Sofia",66,"Analalava","Fivondronana","District",NA,NA
+67,134,"MDG","Madagascar",4,"Mahajanga",15,"Sofia",67,"Antsihihy","Fivondronana","District",NA,NA
+68,134,"MDG","Madagascar",4,"Mahajanga",15,"Sofia",68,"Bealanana","Fivondronana","District",NA,NA
+69,134,"MDG","Madagascar",4,"Mahajanga",15,"Sofia",69,"Befandriana-Nord","Fivondronana","District",NA,"Befandriana-Nord|Befandriana Nord"
+70,134,"MDG","Madagascar",4,"Mahajanga",15,"Sofia",70,"Mampikony","Fivondronana","District",NA,NA
+71,134,"MDG","Madagascar",4,"Mahajanga",15,"Sofia",71,"Mandritsara","Fivondronana","District",NA,NA
+72,134,"MDG","Madagascar",4,"Mahajanga",15,"Sofia",72,"Port Berg?","Fivondronana","District",NA,"Port Bergé"
+73,134,"MDG","Madagascar",5,"Toamasina",16,"Alaotra-Mangoro",73,"Ambatondrazaka","Fivondronana","District",NA,NA
+74,134,"MDG","Madagascar",5,"Toamasina",16,"Alaotra-Mangoro",74,"Amparafaravola","Fivondronana","District",NA,NA
+75,134,"MDG","Madagascar",5,"Toamasina",16,"Alaotra-Mangoro",75,"Andilamena","Fivondronana","District",NA,NA
+76,134,"MDG","Madagascar",5,"Toamasina",16,"Alaotra-Mangoro",76,"Anosibe","Fivondronana","District",NA,NA
+77,134,"MDG","Madagascar",5,"Toamasina",16,"Alaotra-Mangoro",77,"Moramanga","Fivondronana","District",NA,NA
+78,134,"MDG","Madagascar",5,"Toamasina",17,"Analanjirofo",78,"Fenoarivo Atsinanana","Fivondronana","District",NA,NA
+79,134,"MDG","Madagascar",5,"Toamasina",17,"Analanjirofo",79,"Mananara","Fivondronana","District",NA,NA
+80,134,"MDG","Madagascar",5,"Toamasina",17,"Analanjirofo",80,"Maroansetra","Fivondronana","District",NA,NA
+81,134,"MDG","Madagascar",5,"Toamasina",17,"Analanjirofo",81,"Nosy-Boraha (St. Marie)","Fivondronana","District",NA,"Nosy Boraha|Nosy-Boraha (St. Marie)"
+82,134,"MDG","Madagascar",5,"Toamasina",17,"Analanjirofo",82,"Soanierana-Ivongo","Fivondronana","District",NA,NA
+83,134,"MDG","Madagascar",5,"Toamasina",17,"Analanjirofo",83,"Vavatenina","Fivondronana","District",NA,NA
+84,134,"MDG","Madagascar",5,"Toamasina",18,"Atsinanana",84,"Ampasimanolotra","Fivondronana","District",NA,NA
+85,134,"MDG","Madagascar",5,"Toamasina",18,"Atsinanana",85,"Antanambao manampotsy","Fivondronana","District",NA,NA
+86,134,"MDG","Madagascar",5,"Toamasina",18,"Atsinanana",86,"Mahanoro","Fivondronana","District",NA,NA
+87,134,"MDG","Madagascar",5,"Toamasina",18,"Atsinanana",87,"Marolambo","Fivondronana","District",NA,NA
+88,134,"MDG","Madagascar",5,"Toamasina",18,"Atsinanana",88,"Toamasina Rural","Fivondronana","District",NA,NA
+89,134,"MDG","Madagascar",5,"Toamasina",18,"Atsinanana",89,"Vatomandry","Fivondronana","District",NA,NA
+90,134,"MDG","Madagascar",6,"Toliary",19,"Androy",90,"Ambovombe-Androy","Fivondronana","District",NA,NA
+91,134,"MDG","Madagascar",6,"Toliary",19,"Androy",91,"Bekily","Fivondronana","District",NA,NA
+92,134,"MDG","Madagascar",6,"Toliary",19,"Androy",92,"Beloha","Fivondronana","District",NA,NA
+93,134,"MDG","Madagascar",6,"Toliary",19,"Androy",93,"Tsiombe","Fivondronana","District",NA,NA
+94,134,"MDG","Madagascar",6,"Toliary",20,"Anosy",94,"Amboasary-Sud","Fivondronana","District",NA,"Amboasary-Sud|Amboasary Atsimo"
+95,134,"MDG","Madagascar",6,"Toliary",20,"Anosy",95,"Betroka","Fivondronana","District",NA,NA
+96,134,"MDG","Madagascar",6,"Toliary",20,"Anosy",96,"Taolagnaro","Fivondronana","District",NA,"Taolagnaro (F-Dauphin)|Faradofay| Fort Dauphin| Taolagnaro| Taolanaro| Tôla"
+97,134,"MDG","Madagascar",6,"Toliary",21,"Atsimo-Andrefana",97,"Ampanihy","Fivondronana","District",NA,NA
+98,134,"MDG","Madagascar",6,"Toliary",21,"Atsimo-Andrefana",98,"Ankazoabo-Sud","Fivondronana","District",NA,"Ankazoabo-Sud|Ankazoabo Atsimo"
+99,134,"MDG","Madagascar",6,"Toliary",21,"Atsimo-Andrefana",99,"Benenitra","Fivondronana","District",NA,NA
+100,134,"MDG","Madagascar",6,"Toliary",21,"Atsimo-Andrefana",100,"Beroroha","Fivondronana","District",NA,NA
+101,134,"MDG","Madagascar",6,"Toliary",21,"Atsimo-Andrefana",101,"Betioky-Sud","Fivondronana","District",NA,"Betioky-Sud|Betioky Atsimo"
+102,134,"MDG","Madagascar",6,"Toliary",21,"Atsimo-Andrefana",102,"Morombe","Fivondronana","District",NA,NA
+103,134,"MDG","Madagascar",6,"Toliary",21,"Atsimo-Andrefana",103,"Sakaraha","Fivondronana","District",NA,NA
+104,134,"MDG","Madagascar",6,"Toliary",21,"Atsimo-Andrefana",104,"Toliary Urban","Fivondronana","District",NA,NA
+105,134,"MDG","Madagascar",6,"Toliary",21,"Atsimo-Andrefana",105,"Toliary","Fivondronana","District",NA,"Toliary rural|Toleary| Toliara| Tuléar"
+106,134,"MDG","Madagascar",6,"Toliary",22,"Menabe",106,"Belon-i Tsiribihina","Fivondronana","District",NA,NA
+107,134,"MDG","Madagascar",6,"Toliary",22,"Menabe",107,"Mahabo","Fivondronana","District",NA,NA
+108,134,"MDG","Madagascar",6,"Toliary",22,"Menabe",108,"Manja","Fivondronana","District",NA,NA
+109,134,"MDG","Madagascar",6,"Toliary",22,"Menabe",109,"Miandrivazo","Fivondronana","District",NA,NA
+110,134,"MDG","Madagascar",6,"Toliary",22,"Menabe",110,"Morondava","Fivondronana","District",NA,NA
