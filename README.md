@@ -8,3 +8,7 @@ It may not be the same as the official labeling, if any.
 * level 3: districts / departments
 * level 4: communes
 * level 5: Fokontany
+
+# Licence
+
+These data were extracted from the GADM database (www.gadm.org), version 2.5, July 2015. They can be used for non-commercial purposes only.  It is not allowed to redistribute these data, or use them for commercial purposes, without prior consent.
